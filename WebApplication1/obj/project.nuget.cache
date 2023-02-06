@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fcwe8/krcE96UqX/8jydqOHXpQJsH0+nWBMDFM/iW1cE8zDoZt3bXJUftSdOZk0wyD0X89dKpqkojmokF25khg==",
+  "success": true,
+  "projectFilePath": "/Users/m0rp3x/Desktop/c# учеба/файлики/WebApplication1/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/m0rp3x/.nuget/packages/system.servicemodel.syndication/7.0.0/system.servicemodel.syndication.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
